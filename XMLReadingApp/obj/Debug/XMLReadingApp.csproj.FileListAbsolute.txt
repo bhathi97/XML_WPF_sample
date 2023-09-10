@@ -1,0 +1,17 @@
+C:\Users\payme\source\repos\XMLReadingApp\XMLReadingApp\bin\Debug\XMLReadingApp.exe.config
+C:\Users\payme\source\repos\XMLReadingApp\XMLReadingApp\bin\Debug\XMLReadingApp.exe
+C:\Users\payme\source\repos\XMLReadingApp\XMLReadingApp\bin\Debug\XMLReadingApp.pdb
+C:\Users\payme\source\repos\XMLReadingApp\XMLReadingApp\obj\Debug\MainWindow.g.cs
+C:\Users\payme\source\repos\XMLReadingApp\XMLReadingApp\obj\Debug\App.g.cs
+C:\Users\payme\source\repos\XMLReadingApp\XMLReadingApp\obj\Debug\XMLReadingApp_MarkupCompile.cache
+C:\Users\payme\source\repos\XMLReadingApp\XMLReadingApp\obj\Debug\XMLReadingApp_MarkupCompile.lref
+C:\Users\payme\source\repos\XMLReadingApp\XMLReadingApp\obj\Debug\MainWindow.baml
+C:\Users\payme\source\repos\XMLReadingApp\XMLReadingApp\obj\Debug\XMLReadingApp.g.resources
+C:\Users\payme\source\repos\XMLReadingApp\XMLReadingApp\obj\Debug\XMLReadingApp.Properties.Resources.resources
+C:\Users\payme\source\repos\XMLReadingApp\XMLReadingApp\obj\Debug\XMLReadingApp.csproj.GenerateResource.cache
+C:\Users\payme\source\repos\XMLReadingApp\XMLReadingApp\obj\Debug\XMLReadingApp.csproj.CoreCompileInputs.cache
+C:\Users\payme\source\repos\XMLReadingApp\XMLReadingApp\obj\Debug\XMLReadingApp.exe
+C:\Users\payme\source\repos\XMLReadingApp\XMLReadingApp\obj\Debug\XMLReadingApp.pdb
+C:\Users\payme\source\repos\XMLReadingApp\XMLReadingApp\obj\Debug\UserControlC.g.cs
+C:\Users\payme\source\repos\XMLReadingApp\XMLReadingApp\obj\Debug\UserControlC.baml
+C:\Users\payme\source\repos\XMLReadingApp\XMLReadingApp\obj\Debug\XMLReadingApp.csproj.AssemblyReference.cache

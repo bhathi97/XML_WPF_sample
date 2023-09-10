@@ -1,0 +1,51 @@
+﻿<categories>
+	<category name="A">
+		<item code="001">
+			<title> Category A - Item 01</title>
+			<quantity> 10 Items</quantity>
+		</item>
+		<item code="002">
+			<title> Category A - Item 02</title>
+			<quantity> 20 Items</quantity>
+		</item>
+		<item code="003">
+			<title> Category A - Item 03</title>
+			<quantity> 30 Items</quantity>
+		</item>
+		<item code="004">
+			<title> Category A - Item 04</title>
+			<quantity> 40 Items</quantity>
+		</item>
+	</category>
+
+	<category name="B">
+		<item code="001">
+			<title> Category B - Item 01</title>
+			<quantity> 50 Items</quantity>
+		</item>
+		<item code="002">
+			<title> Category B - Item 02</title>
+			<quantity> 60 Items</quantity>
+		</item>
+		<item code="003">
+			<title> Category B - Item 03</title>
+			<quantity> 70 Items</quantity>
+		</item>
+		<item code="004">
+			<title> Category B - Item 04</title>
+			<quantity> 80 Items</quantity>
+		</item>
+	</category>
+
+	<category name="C">
+		<item code="001">
+			<title> Category C - Item 01</title>
+			<quantity> 90 Items</quantity>
+		</item>
+		<item code="002">
+			<title> Category C - Item 02</title>
+			<quantity> 100 Items</quantity>
+		</item>
+	</category>
+	
+</categories>
